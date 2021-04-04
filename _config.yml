@@ -14,13 +14,13 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
+title: Ventbot
+subtitle: "Because we care about you."
+url: "https://laisbsc.github.io/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airspace-jekyll"
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+baseurl: "/ada"
+cover: "img/slider-bg.jpg"
+logo: "img/logo.png"
 
 # Build settings
 markdown: kramdown
