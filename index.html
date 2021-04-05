@@ -51,7 +51,7 @@ permalink: /
       <p>Ada can be a helping hand for you to go through a tough moment in a lighter and humorous way.</p>
       <p>But if you need an extra help, we know who can help you with that!</p>
       <p>Click below and find out more.</p>      
-      <a href="work.html" class="btn btn-view-works">Extra Help</a>         
+      <a href="/ada/work" class="btn btn-view-works">Extra Help</a>         
     </div>
   </div>
 </div>
@@ -66,56 +66,8 @@ permalink: /
         <div class="block">
           <h2>We want to hear your experience with Ada.</h2>
           <p>We are delighted to share Ada with you. Tell us how Ada is helping you in your journey.</p>
-          <a class="btn btn-default btn-call-to-action" href="contact.html">Tell Us Your Story</a>
+          <a class="btn btn-default btn-call-to-action" href="/ada/contact">Tell Us Your Story</a>
         </div>
-      </div>
-    </div>
-  </div>
-</section>
-<!-- Content Start -->
-<section id="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="section-title text-center">
-        <h2>Fun Facts About Us</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        {% if site.data.funfacts.size > 0 %}
-        <div class="block">
-          {% for ff in site.data.funfacts %}
-          <ul class="counter-box clearfix">
-            <li>
-              <div class="block">
-                <i class="{{ ff.icon }}"></i>
-                <h4 class="counter">{{ ff.counter }}</h4>
-                <span>{{ ff.text }}</span>
-              </div>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endif %}
-      </div>
-      <div class="col-md-6">
-        {% if site.data.testimonials.size > 0 %}
-        <div class="testimonial-carousel">
-          <div id="testimonial-slider" class="owl-carousel">
-            {% for tm in site.data.testimonials %}
-            <div>
-                <img src="img/cotation.png" alt="IMG">
-                <p>{{ tm.testimonial }}</p>
-                <div class="user">
-                  <img src="{{ tm.image }}" alt="Pepole">
-                  <p><span>{{ tm.name }}</span> {{ tm.title }}</p>
-                </div>
-            </div>
-            {% endfor %}
-          </div>
-        </div>
-        {% endif %}
       </div>
     </div>
   </div>
