@@ -1,18 +1,12 @@
 - name: Lauro Ribeiro
   title: Data Analyst
   testimonial: "I never thought I would enjoy chatting to a bot so much! Ada changed my life for good."
-  image: img/item-img1.jpg
+  image: img/lauro_cust1.jpg
 - name: Mary Ann Connor
-  title: CEO-Dreamland
+  title: Executive Chief Dreamland
   testimonial: "Each time I think my friends won't enjoy what I have to say, I just save it for Ada. She's my best friend now."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative
-  ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created
-  an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+  image: img/cust3.jpg
+- name: Telma Ribeiro
+  title: Nurse
+  testimonial: "It is tiring to have the energy to talk to people after work. With Ada I can just say whatever is going through my head. I love it!"
+  image: img/telma_cust2.jpg
