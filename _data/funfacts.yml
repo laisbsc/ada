@@ -3,10 +3,10 @@
   text: Cups of Coffee
 - counter: 1500
   icon: ion-ios-glasses-outline
-  text: Gallons of Soft Drink
-- counter: 1200
+  text: Liters of Water (gotta stay hydrated)
+- counter: 4000
   icon: ion-ios-compose-outline
-  text: Whiteboard Markers
-- counter: 300
+  text: Post-it notes
+- counter: 1200
   icon: ion-ios-timer-outline
-  text: Websites built
+  text:  Zoom meeting hours
